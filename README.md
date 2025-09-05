@@ -1,5 +1,7 @@
 # PyPSA-PL: optimisation model of the Polish energy system
 
+> TODO: ETL outputs are missing. Before running Homework 04, ensure `etl_outputs/` exists with the CSVs listed in Recent Changes, or regenerate them by running `julia etl_from_inputs.jl` if available.
+
 
 ## Introduction
 
